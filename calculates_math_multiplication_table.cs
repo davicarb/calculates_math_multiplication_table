@@ -38,6 +38,6 @@ class loopForDentroDeDoWhile
             Console.WriteLine("Would you like to repeat the program?");
             option = Console.ReadLine();
 
-        } while (option == "S" || option == "s");
+        } while (option == "Y" || option == "y");
     }
 }
