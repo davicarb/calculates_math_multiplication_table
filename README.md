@@ -14,6 +14,6 @@ I named the variables constantNumber and variableNumber so it's easy to visualiz
 The user inputs the constantNumber (the one that will be multiplied by the variableNumber, which will be floating between 0 and 10 while the loop is running).
 
 And the variableNumber the user does not input. It is determined, by the for loop, that it will start on 0, and will end on 10.
-So, when the loop starts, it always multiplies the inputed number for the number that is constant (0 to 10), which is done inside the for loop.
+So, when the loop starts, it always multiplies the inputted number for the number that is constant (0 to 10), which is done inside the for loop.
 
 
