@@ -1,5 +1,5 @@
 # calculates_math_multiplication_table
-This simple application was built without the use of AI, with the purpose of training logic thinking and problem solving. One of my first projects ever built using C#, so it may me simple, but useful.
+This simple application was built without the use of AI, with the purpose of training logic thinking and problem solving. One of my first projects ever built using C#, so it may be simple, but useful.
 One of the goals here is to train logic and the use of for, while and do while loops.
 My goal is to be one day a developer for a big tech company outside of my home country Brazil.
 
