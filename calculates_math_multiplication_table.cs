@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq.Expressions;
-class loopForDentroDeDoWhile
+class calculates_math_multiplication_table
 {
     static void Main()
     {
